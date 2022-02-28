@@ -1,0 +1,64 @@
+header {text-align:center;}
+
+body {margin: 0;
+background-color:rgb(255, 255, 255);}
+
+
+
+h1 {color:rgb(255, 255, 255);
+font-size:70px;
+font-family: "Rajdhani", sans-serif;
+margin: 0;}
+
+h4 {margin:0;
+    font-size:35px;}
+
+h2 {margin-top: 0;}
+
+h1,
+h4,
+h2,
+h5,
+p  {text-align:center;}
+
+h1,
+h2,
+h4,
+h5 {font-family: "Rajdhani", sans-serif;}
+
+p,
+table {font-family: "Roboto", sans-serif;}
+
+
+h4,
+a {color:rgb(173, 69, 0);}
+
+h5 {font-size: 16px;}
+
+table {padding-left: 30%;}
+
+.Affinity { padding-left: 50px;}
+
+
+.paticka {text-align:center;
+        padding: 20px 0px;
+        color:white;
+        background-color:rgb(212, 133, 101);}
+
+.foto-omne {width: 180px;
+border-radius: 25% 0% 25% 25%;
+float: left;
+margin: 0 30px 30px 0;}
+
+.ukazky-me-prace img {width: 32%;}
+
+
+
+section {padding: 50px 25%;
+        overflow: auto;}
+
+hr {width: 50%;}
+
+.hlavicka {padding: 150px 30px;
+            background-image: url(obrazky/pozadi1.jpg);
+        background-size: cover;}
